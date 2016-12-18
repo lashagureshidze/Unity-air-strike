@@ -1,0 +1,17 @@
+[Ll]ibrary/*
+[Tt]emp/*
+[Oo]bj/*
+[Aa]ssets/[Ll]ocal/*
+[Aa]ssets/[Uu]nityVS/*
+[Aa]ssets/Local.meta
+[Aa]ssets/Plugins.meta
+[Aa]ssets/Analytics.meta
+[Aa]ssets/UnityVS.meta
+[Pp]rojectSettings/EditorSettings.asset
+*.sln
+/*
+!.gitignore
+![Aa]ssets/
+
+*.pfx
+/Assets/WSATestCertificate.pfx.meta
